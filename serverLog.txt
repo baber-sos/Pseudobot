@@ -1,0 +1,36 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 14, 2017 - 19:42:40
+Django version 1.11.1, using settings 'pseudobot.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+{'G_AUTHUSER_H': '0', 'id': 'IEYTZQV2X5', 'G_ENABLED_IDPS': 'google'}
+{'G_AUTHUSER_H': '0', 'id': 'IEYTZQV2X5', 'G_ENABLED_IDPS': 'google'}
+IEYTZQV2X5
+Traceback (most recent call last):
+  File "botlogic.py", line 199, in <module>
+    print get_response(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4],sys.argv[5])
+  File "botlogic.py", line 194, in get_response
+    f.write(resp+"\n");
+TypeError: unsupported operand type(s) for +: 'Statement' and 'str'
+
+{'G_ENABLED_IDPS': 'google'}
+{'id': '1ABJT7T0U3', 'G_ENABLED_IDPS': 'google'}
+1ABJT7T0U3
+Traceback (most recent call last):
+  File "botlogic.py", line 199, in <module>
+    print get_response(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4],sys.argv[5])
+  File "botlogic.py", line 194, in get_response
+    f.write(resp+"\n");
+TypeError: unsupported operand type(s) for +: 'Statement' and 'str'
+
+{'G_AUTHUSER_H': '0', 'id': 'IEYTZQV2X5', 'G_ENABLED_IDPS': 'google'}
+IEYTZQV2X5
+Traceback (most recent call last):
+  File "botlogic.py", line 199, in <module>
+    print get_response(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4],sys.argv[5])
+  File "botlogic.py", line 194, in get_response
+    f.write(resp+"\n");
+TypeError: unsupported operand type(s) for +: 'Statement' and 'str'
+

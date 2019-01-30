@@ -1,0 +1,97 @@
+body {
+font-family: Lato;
+zoom: 100%;
+}
+.abcRioButton.abcRioButtonBlue {
+    height:36px;
+    width:100% !important;
+}
+.message {
+    margin-top: 20px;
+}
+
+.message.incoming {
+    color: #0863bb;
+    font-weight: bold;
+}
+
+.message.hidden {
+    display: none;
+}
+
+.chatarea {
+    height: 400px;
+    overflow-y: hidden;
+}
+
+.jumbotron {
+}
+.navbar-default {
+	background-color: #2e6da4;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-text {
+	color: white !important;
+	font-size: 20px !important;
+}
+
+
+.line1 {
+	-moz-opacity: 0.1;          /* Netscape */
+	-khtml-opacity: 0.1;        /* Safari 1.x */
+	opacity: 0.1;   
+}
+.line2 {
+	-moz-opacity: 0.2;          /* Netscape */
+	-khtml-opacity: 0.2;        /* Safari 2.x */
+	opacity: 0.2;   
+}
+.line3 {
+	-moz-opacity: 0.3;          /* Netscape */
+	-khtml-opacity: 0.3;        /* Safari 3.x */
+	opacity: 0.3;   
+}
+.line4 {
+	-moz-opacity: 0.4;          /* Netscape */
+	-khtml-opacity: 0.4;        /* Safari 4.x */
+	opacity: 0.4;   
+}
+.line5 {
+	-moz-opacity: 0.5;          /* Netscape */
+	-khtml-opacity: 0.5;        /* Safari 5.x */
+	opacity: 0.5;   
+}
+.line6 {
+	-moz-opacity: 0.6;          /* Netscape */
+	-khtml-opacity: 0.6;        /* Safari 6.x */
+	opacity: 0.6;   
+}
+.line7 {
+	-moz-opacity: 0.7;          /* Netscape */
+	-khtml-opacity: 0.7;        /* Safari 7.x */
+	opacity: 0.7;   
+}
+.line8 {
+	-moz-opacity: 0.8;          /* Netscape */
+	-khtml-opacity: 0.8;        /* Safari 8.x */
+	opacity: 0.8;   
+}
+.line9 {
+	-moz-opacity: 0.9;          /* Netscape */
+	-khtml-opacity: 0.9;        /* Safari 9.x */
+	opacity: 0.9;   
+}
+.line10 {
+	-moz-opacity: 1;          /* Netscape */
+	-khtml-opacity: 1;        /* Safari 10.x */
+	opacity: 1;   
+}
